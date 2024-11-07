@@ -1,0 +1,43 @@
+﻿  game.c
+C:\Users\korisnik\Desktop\2048\2048\src\game.c(403,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\korisnik\Desktop\2048\2048\src\game.c(427,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\korisnik\Desktop\2048\2048\src\game.c(451,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\korisnik\Desktop\2048\2048\src\game.c(475,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\korisnik\Desktop\2048\2048\src\game.c(499,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\korisnik\Desktop\2048\2048\src\game.c(523,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\korisnik\Desktop\2048\2048\src\game.c(547,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\korisnik\Desktop\2048\2048\src\game.c(571,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\korisnik\Desktop\2048\2048\src\game.c(639,71): warning C4133: 'function': incompatible types - from 'int *' to 'float *'
+C:\Users\korisnik\Desktop\2048\2048\src\game.c(640,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\korisnik\Desktop\2048\2048\src\game.c(693,71): warning C4133: 'function': incompatible types - from 'int *' to 'float *'
+C:\Users\korisnik\Desktop\2048\2048\src\game.c(694,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\korisnik\Desktop\2048\2048\src\game.c(747,71): warning C4133: 'function': incompatible types - from 'int *' to 'float *'
+C:\Users\korisnik\Desktop\2048\2048\src\game.c(748,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\korisnik\Desktop\2048\2048\src\game.c(801,71): warning C4133: 'function': incompatible types - from 'int *' to 'float *'
+C:\Users\korisnik\Desktop\2048\2048\src\game.c(802,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\korisnik\Desktop\2048\2048\src\game.c(820,39): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+  stage.c
+C:\Users\korisnik\Desktop\2048\2048\src\stage.c(133,11): warning C4013: 'loadMusic' undefined; assuming extern returning int
+C:\Users\korisnik\Desktop\2048\2048\src\stage.c(198,12): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\korisnik\Desktop\2048\2048\src\stage.c(241,93): warning C4020: 'unosPoteza': too many actual parameters
+C:\Users\korisnik\Desktop\2048\2048\src\stage.c(242,18): warning C4013: 'isteMatrice' undefined; assuming extern returning int
+C:\Users\korisnik\Desktop\2048\2048\src\stage.c(248,157): warning C4020: 'generisiRandomElement': too many actual parameters
+C:\Users\korisnik\Desktop\2048\2048\src\stage.c(257,93): warning C4020: 'unosPoteza': too many actual parameters
+C:\Users\korisnik\Desktop\2048\2048\src\stage.c(264,123): warning C4020: 'generisiRandomElement': too many actual parameters
+C:\Users\korisnik\Desktop\2048\2048\src\stage.c(268,36): warning C4013: 'pobeda' undefined; assuming extern returning int
+C:\Users\korisnik\Desktop\2048\2048\src\stage.c(430,41): warning C4020: 'blitRect': too many actual parameters
+C:\Users\korisnik\Desktop\2048\2048\src\stage.c(433,39): warning C4020: 'blitRect': too many actual parameters
+C:\Users\korisnik\Desktop\2048\2048\src\stage.c(424,17): warning C4101: 'rrc': unreferenced local variable
+C:\Users\korisnik\Desktop\2048\2048\src\stage.c(438,10): warning C4013: 'drawText' undefined; assuming extern returning int
+C:\Users\korisnik\Desktop\2048\2048\src\stage.c(493,35): warning C4020: 'blitRect': too many actual parameters
+C:\Users\korisnik\Desktop\2048\2048\src\stage.c(524,67): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\korisnik\Desktop\2048\2048\src\stage.c(541,71): warning C4020: 'blitRect': too many actual parameters
+C:\Users\korisnik\Desktop\2048\2048\src\stage.c(542,41): warning C4020: 'blitRect': too many actual parameters
+C:\Users\korisnik\Desktop\2048\2048\src\stage.c(552,61): warning C4020: 'blitRect': too many actual parameters
+C:\Users\korisnik\Desktop\2048\2048\src\stage.c(658,34): warning C4020: 'blitRect': too many actual parameters
+C:\Users\korisnik\Desktop\2048\2048\src\stage.c(808,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\korisnik\Desktop\2048\2048\src\stage.c(809,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\korisnik\Desktop\2048\2048\src\stage.c(821,60): warning C4020: 'blitRect': too many actual parameters
+  Generating Code...
+C:\Users\korisnik\Desktop\2048\2048\src\game.c(589): warning C4715: 'evaluacijaPozicije': not all control paths return a value
+  2048.vcxproj -> C:\Users\korisnik\Desktop\2048\x64\Debug\2048.exe
